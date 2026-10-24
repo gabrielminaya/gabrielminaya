@@ -3,7 +3,7 @@
 <div align="center">
 
 [![neurosoft.dev](https://img.shields.io/badge/neurosoft.dev-0f1628?style=for-the-badge&logo=googlechrome&logoColor=b9e14b)](https://neurosoft.dev)
-[![Email](https://img.shields.io/badge/team@neurosoft.dev-0f1628?style=for-the-badge&logo=maildotru&logoColor=b9e14b)](mailto:team@neurosoft.dev)
+[![Email](https://img.shields.io/badge/gminaya@neurosoft.dev-0f1628?style=for-the-badge&logo=maildotru&logoColor=b9e14b)](mailto:gminaya@neurosoft.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0f1628?style=for-the-badge&logo=whatsapp&logoColor=b9e14b)](https://wa.me/18294513026)
 [![Instagram](https://img.shields.io/badge/@neurosoft.dev-0f1628?style=for-the-badge&logo=instagram&logoColor=b9e14b)](https://www.instagram.com/neurosoft.dev/)
 
