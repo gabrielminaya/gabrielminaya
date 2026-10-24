@@ -1,0 +1,10 @@
+<!--
+  La pestaña de la página de Brega: la «b» de circuito sobre el tablero azul noche de Neurosoft,
+  el mismo también con el navegador en oscuro, como la «n» de Neurosoft y la «c» de Coconut.
+
+  Copia de `apps/console/public/favicon.svg` del repositorio de Brega, que la genera con
+  `packages/ui/scripts/brand-icons.ts` a partir de `src/lib/brand.ts`: no se edita a mano.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="32" height="32">
+  <rect width="64" height="64" rx="15" fill="#0f1628"/><path d="M23 14V40A10 10 0 1 0 33 30H31" fill="none" stroke="#f7f2e7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="23" cy="14" r="5.5" fill="#58b4c4" stroke="#0f1628" stroke-width="2.5"/><circle cx="31" cy="30" r="7.7" fill="#fe9c8c" opacity="0.28"/><circle cx="31" cy="30" r="5.5" fill="#fe9c8c" stroke="#0f1628" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- El icono de Neurosoft: el tablero azul noche de la portada y una «n» trazada como una pista de
+       circuito, que sale de una pastilla índigo y llega encendida a la lima. -->
+  <rect width="64" height="64" rx="15" fill="#0f1628"/>
+  <path d="M19 18V47M19 31c0-7 5.5-11 13-11s13 4 13 11v16" fill="none" stroke="#f7f2e7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="19" cy="47" r="5.5" fill="#7d8bf2" stroke="#0f1628" stroke-width="2.5"/>
+  <circle cx="45" cy="47" r="7.5" fill="#b9e14b" opacity=".28"/>
+  <circle cx="45" cy="47" r="5.5" fill="#b9e14b" stroke="#0f1628" stroke-width="2.5"/>
+</svg>
