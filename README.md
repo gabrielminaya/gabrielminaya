@@ -119,10 +119,7 @@ Además de lo que hacemos a la medida, en Neurosoft tenemos **productos propios*
 
 ## De la idea a producción, sin desaparecer al lanzar
 
-| `01` | `02` | `03` | `04` | `05` | `06` |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Primera conversación** | **Diseño · Prototipo** | **Entregas cortas** | **Calidad** | **Lanzamiento** | **Soporte continuo** |
-| <sub>Alcance, plazo y precio por escrito</sub> | <sub>Pantallas que se tocan antes de programar</sub> | <sub>Avances que puedes abrir en un enlace</sub> | <sub>Pruebas unitarias, de integración y E2E</sub> | <sub>Tiendas, dominio y migración de datos</sub> | <sub>El mismo equipo que lo construyó</sub> |
+<a href="https://neurosoft.dev/es/#process"><img src="assets/process.webp" alt="Los seis pasos de un proyecto sobre una placa de circuito de papel: 01 Primera conversación, entendemos el problema; 02 Diseño y prototipo, lo ves antes de construirlo; 03 Entregas cortas, avances que puedes abrir; 04 Calidad, pruebas de verdad; 05 Lanzamiento, salimos a producción contigo; 06 Soporte continuo, nos quedamos." width="100%"></a>
 
 **El código es tuyo:** el repositorio, los servidores y las cuentas de las tiendas quedan a nombre de tu empresa.
 
