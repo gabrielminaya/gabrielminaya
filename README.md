@@ -11,7 +11,7 @@
 
 ## <img src="assets/neurosoft-icon.svg" width="28" align="top"> Hola, soy Gabriel
 
-Soy **co-founder de [Neurosoft](https://neurosoft.dev)**, una empresa de desarrollo de sistemas e inteligencia artificial con oficinas en Santiago, República Dominicana, y en Whitehall, Pennsylvania, Estados Unidos. Hacemos chatbots con IA, aplicaciones móviles y web, y la nube donde corren. Los hacemos a la medida de cada negocio, con un equipo que **sigue ahí después del lanzamiento**.
+Soy **co-founder de [Neurosoft](https://neurosoft.dev)**, una empresa de desarrollo de sistemas e inteligencia artificial. Hacemos chatbots con IA, aplicaciones móviles y web, y la nube donde corren. Los hacemos a la medida de cada negocio, con un equipo que **sigue ahí después del lanzamiento**.
 
 `📍 Santiago, RD` · `📍 Whitehall, PA, EE. UU.` · `🗣️ Español · English` · `🕘 Lun–Vie, 9:00–18:00`
 
