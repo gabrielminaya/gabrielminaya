@@ -19,12 +19,36 @@ Soy **co-founder de [Neurosoft](https://neurosoft.dev)**, una empresa de desarro
 
 ## Lo que construimos
 
-| | | |
-| :---: | --- | --- |
-| 🤖 | **Chatbots e IA**<br><sub>Un asistente que atiende por ti</sub> | En WhatsApp, en tu web o en Instagram: contesta lo de siempre, toma pedidos y citas a cualquier hora y le pasa a una persona lo que no sabe. Responde con tus datos, no con respuestas genéricas. |
-| 📱 | **Aplicaciones móviles**<br><sub>Tu app en el teléfono de tus clientes</sub> | En App Store y Google Play, con tu nombre. Para comprar, reservar o seguir pedidos, o para tu equipo en la calle. Con notificaciones y funcionamiento sin conexión. |
-| 🖥️ | **Aplicaciones web**<br><sub>El sistema donde trabaja tu equipo</sub> | Inventario, pedidos, reservas, cobros: lo que hoy vive en un Excel y en tres grupos de WhatsApp, en el navegador y sin instalar nada. |
-| ☁️ | **Nube**<br><sub>Lo que lo sostiene, sin caerse</sub> | Servidores, bases de datos y copias de seguridad en AWS, Azure o Google Cloud, con monitoreo y despliegues automáticos. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/services/ai.webp" alt="Un teléfono con una conversación conectado a una red neuronal" width="100%"><br>
+      <sub><b>Chatbots e IA</b></sub><br>
+      <b>Un asistente que atiende por ti</b><br>
+      En WhatsApp, en tu web o en Instagram: contesta lo de siempre, toma pedidos y citas a cualquier hora y le pasa a una persona lo que no sabe. Responde con tus datos, no con respuestas genéricas.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/services/mobile.webp" alt="Dos teléfonos con una notificación" width="100%"><br>
+      <sub><b>Aplicaciones móviles</b></sub><br>
+      <b>Tu app en el teléfono de tus clientes</b><br>
+      En App Store y Google Play, con tu nombre. Para comprar, reservar o seguir pedidos, o para tu equipo en la calle. Con notificaciones y funcionamiento sin conexión.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/services/web.webp" alt="Una ventana del navegador con código y un medidor de velocidad" width="100%"><br>
+      <sub><b>Aplicaciones web</b></sub><br>
+      <b>El sistema donde trabaja tu equipo</b><br>
+      Inventario, pedidos, reservas, cobros: lo que hoy vive en un Excel y en tres grupos de WhatsApp, en el navegador y sin instalar nada.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/services/cloud.webp" alt="Un armario de servidores bajo las nubes con una gráfica de monitoreo" width="100%"><br>
+      <sub><b>Nube</b></sub><br>
+      <b>Lo que lo sostiene, sin caerse</b><br>
+      Servidores, bases de datos y copias de seguridad en AWS, Azure o Google Cloud, con monitoreo y despliegues automáticos.
+    </td>
+  </tr>
+</table>
 
 ---
 
